@@ -1,13 +1,32 @@
-# Insira aqui o nome do exercício
+# Divisao
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
-  
+* 🖥️ Exercício: Decisão e operações lógicas (3) - Divisao
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md
+
 ## Enunciado
-  
-Insira aqui a descrição do exercício
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Receba um numerador e um denominador. Exiba o resultado da divisão ou "Não é possível dividir por zero.", conforme o caso.
+
+Ex.:
+```
+Digite o numerador....: 12
+Digite o denominador..: 3
+12 dividido por 3 é 4.
+```
+ou
+```
+Digite o numerador....: 0
+Digite o denominador..: 5
+0 dividido por 5 é 0.
+```
+ou
+```
+Digite o numerador....: 12
+Digite o denominador..: 0
+Não é possível dividir por zero.
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
